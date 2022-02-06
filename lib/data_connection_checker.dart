@@ -1,3 +1,4 @@
+// @dart=2.9
 /// A pure Dart utility library that checks for an internet connection
 /// by opening a socket to a list of specified addresses, each with individual
 /// port and timeout. Defaults are provided for convenience.
